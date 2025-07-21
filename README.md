@@ -9,7 +9,7 @@ I'm a Software Developer with a passion for writing clean, purposeful code and t
 - 🧠 Motivated by curiosity and the belief that there’s always a better way to do things
 - ✨ I’m on the lookout for an entry level position to further my career
 
-## What I'm Working On 🔧
+## Current Goals 🔧
 
 - Practicing algorithms and data structures to stay sharp (through LeetCode)
 - Preparing for foundational certifications in **AWS** and **Azure**
@@ -17,7 +17,7 @@ I'm a Software Developer with a passion for writing clean, purposeful code and t
 
 ## Tech I Use Often 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,html,css,mysql,git,unity,visualstudio,idea&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,firebase,python,nodejs,npm,java,unity,mysql,vite,vscode,git,github)](https://skillicons.dev)
 
 ## Let's Connect 🤝
 
