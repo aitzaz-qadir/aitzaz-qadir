@@ -17,7 +17,7 @@ I'm a Software Developer with a passion for writing clean, purposeful code and t
 
 ## Tech I Use Often 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,docker,nextjs,firebase,python,nodejs,npm,java,unity,aws,idea,mysql,vite,vscode,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,docker,nextjs,firebase,python,nodejs,npm,java,unity,aws,idea,mysql,vite,vscode,git,github)](https://skillicons.dev)
 
 ## Let's Connect 🤝
 
