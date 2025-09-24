@@ -24,4 +24,4 @@ I'm a Software Developer with a passion for writing clean, purposeful code and t
 I'm actively seeking opportunities where I can contribute, grow, and build impactful solutions as part of a collaborative development team.
 Feel free to reach out to connect or discuss potential roles.
 
-📫 [LinkedIn](https://www.linkedin.com/in/aitzaz-qadir) | ✉️ aitzazqk@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/aitzaz-qadir) | ✉️ aitzazqk@gmail.com | 🌐 [Portfolio](https://aitzaz-portfolio.netlify.app/)
