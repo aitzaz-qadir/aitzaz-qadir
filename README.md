@@ -1,27 +1,35 @@
 # Hey, I'm Aitzaz 👋
 
-I'm a Software Developer with a passion for writing clean, purposeful code and turning ideas into functional, reliable solutions. I enjoy working through technical challenges and building things that solve real-world problems especially when I get to learn something new along the way.
+I'm a Software Developer who enjoys writing clean, purposeful code and turning ideas into reliable, real-world solutions, especially in healthcare, where software directly affects the people using it.
 
 ## About Me ⚙️
 
-- 🎓 Computer Science graduate from Dalhousie University (Class of 2024)
-- 👨‍💻 Experienced in both web development and dynamic UI design through internships and personal projects
-- 🧠 Motivated by curiosity and the belief that there’s always a better way to do things
-- ✨ I’m on the lookout for an entry level position to further my career
+- 🏥 Currently at **Nova Scotia Health**, building clinical training tools for the province-wide Oracle Health EHR rollout
+- 🎓 Computer Science graduate from **Dalhousie University** (Class of 2024)
+- 🎮 Built browser-based training games used by hundreds of clinical staff (React, TypeScript, Firebase)
+- 🧠 Motivated by curiosity and the belief that there's always a better way to do things
+
+## Featured Projects 🚀
+
+**[Checkout Zone](https://github.com/aitzaz-qadir/checkout-zone)**: Equipment checkout system with role-based access
+Java · Spring Boot · Spring Security · PostgreSQL · Docker · AWS (EC2, ECR, SSM) · GitHub Actions CI/CD
+🔗 [Live Demo](https://99-79-19-16.sslip.io)
+
+**[Portfolio](https://aitzazqadir.dev)**: My personal site, hosted on AWS
+React · Tailwind CSS · Vite
 
 ## Current Goals 🔧
 
-- Practicing algorithms and data structures to stay sharp (through LeetCode)
-- Preparing for foundational certifications in **AWS** and **Azure**
-- Designing and building a polished **personal portfolio website**
+- Going deeper on AWS serverless: Lambda, SQS and DynamoDB
+- Adding JWT authentication to Checkout Zone
+- Practicing algorithms and data structures on LeetCode
 
 ## Tech I Use Often 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,docker,nextjs,firebase,python,nodejs,npm,java,unity,aws,idea,mysql,vite,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,python,kotlin,html,css,sass,tailwind,postgres,mysql,firebase,docker,aws,githubactions,linux,git,github,idea,vscode,vite,unity)](https://skillicons.dev)
 
 ## Let's Connect 🤝
 
-I'm actively seeking opportunities where I can contribute, grow, and build impactful solutions as part of a collaborative development team.
-Feel free to reach out to connect or discuss potential roles.
+I'm open to software development opportunities where I can contribute, grow, and build impactful solutions as part of a collaborative team. Feel free to reach out.
 
-📫 [LinkedIn](https://www.linkedin.com/in/aitzaz-qadir) | ✉️ aitzazqk@gmail.com | 🌐 [Portfolio](https://aitzaz-portfolio.netlify.app/)
+📫 [LinkedIn](https://www.linkedin.com/in/aitzaz-qadir) | ✉️ aitzazqk@gmail.com | 🌐 [Portfolio](https://aitzazqadir.dev)
