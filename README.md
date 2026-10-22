@@ -9,15 +9,6 @@ I'm a Software Developer who enjoys writing clean, purposeful code and turning i
 - 🎮 Built browser-based training games used by hundreds of clinical staff (React, TypeScript, Firebase)
 - 🧠 Motivated by curiosity and the belief that there's always a better way to do things
 
-## Featured Projects 🚀
-
-**[Checkout Zone](https://github.com/aitzaz-qadir/checkout-zone)**: Equipment checkout system with role-based access
-Java · Spring Boot · Spring Security · PostgreSQL · Docker · AWS (EC2, ECR, SSM) · GitHub Actions CI/CD
-🔗 [Live Demo](https://99-79-19-16.sslip.io)
-
-**[Portfolio](https://aitzazqadir.dev)**: My personal site, hosted on AWS
-React · Tailwind CSS · Vite
-
 ## Current Goals 🔧
 
 - Going deeper on AWS serverless: Lambda, SQS and DynamoDB
